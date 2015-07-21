@@ -1,4 +1,5 @@
 # SQL
+<img src ="Capture du 2014-12-28 19_13_58.png">
 Serie de requetes SQL.La modelisation des tables est fournis en image.
 
 
